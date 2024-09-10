@@ -1,5 +1,5 @@
 
-<odoo
+<odoo>
     <record id="estate_view_tree" model="ir.ui.view">
         <field name="name">estate.property.tree</field>
         <field name="model">estate.property</field>
@@ -14,4 +14,4 @@
             </tree>
         </field>
     </record>
-</odoo>>
+</odoo>
